@@ -14,6 +14,7 @@ Teachable machine is mostly about image recognition. As a result, the recorded s
 
 # Results
 Detect confidence for each types (best-case scenario):
+
 Background noise:
 
 ![image](https://user-images.githubusercontent.com/85775157/164004169-0be4bf78-7549-416e-9fe0-2d35aae5cf3f.png)
