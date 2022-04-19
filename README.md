@@ -38,7 +38,7 @@ Hi-hats:
 
 # Problems
 - Most of the time the model is confused between clap and snare samples.
-- Hi-hats are mostly recognized when played in a repeating pattern, when played separatedly it was identified as a clap due to short length and being at a similar frequency in the speactrum.
+- Hi-hats are mostly recognized when played in a repeating pattern, when played separatedly they were identified as claps due to short length and being at a similar frequency in the spectrum.
 
 # Application
 Although this model is used to identify sounds, a new GAN model can be trained to imitate the spectrogram of the abovementioned percussions, then that spectrogram can be converted back to sound format, creating new drums sounds. This will be a great tool for electronic musicians who need new sounds to experiment with.
