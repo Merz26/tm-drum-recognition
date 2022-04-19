@@ -13,7 +13,7 @@ I tried importing drum samples from my sound library. But since Teachable Machin
 Teachable machine is mostly about image recognition. As a result, the recorded sounds were converted to spectrogram form in order for it to work. This may lead to conflict as some sounds are found in the same frequency range and may have similar lenght
 
 # Results
-Detect confidence for each types (best-case scenario):
+Detection confidence for each types (best-case scenario):
 
 Background noise:
 
