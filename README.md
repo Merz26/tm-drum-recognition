@@ -1,8 +1,8 @@
 # tm-drum-recognition
-A Teachable machine project to recognize particular drum sounds
+A Teachable Machine project to recognize particular drum sounds
 
-# main instuments
-I tried importing drum samples from my library. But since Teachable Machine doesn't allow custom samples, all of the sound were recorded by mouth, including:
+# Main instruments
+I tried importing drum samples from my sound library. But since Teachable Machine doesn't allow custom samples, all of the sound were recorded by mouth, including:
 - Drums (26 samples, with length variance to improve accuracy)
 - Snare (20 samples, with length variance to improve accuracy)
 - Clap (13 actual hand claps)
